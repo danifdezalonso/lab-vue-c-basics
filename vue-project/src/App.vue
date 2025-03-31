@@ -8,7 +8,6 @@ import ListOfItems from './components/ListOfItems.vue'
 <template>
   <header>
     <NavBar />
-
     <ListOfItems />
     <Footer />
   </header>
